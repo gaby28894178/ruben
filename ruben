@@ -17,34 +17,20 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,Cinco TV (480p) [Not 24/7]
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
- #EXTINF:-1,Canal 9 Salta
- http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
- 
- #EXTINF:-1,América TV (720p)
- https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
- #EXTINF:-1,Mega TV (Jaen) (720p) [Not 24/7]
- https://tv.portalexpress.es:3399/hybrid/play.m3u8
- 
- 
- 
- 
- 
- 
- 
+#EXTINF:-1,Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
 
-
+#EXTINF:-1,Mega TV (Jaen) (720p) [Not 24/7]
+https://tv.portalexpress.es:3399/hybrid/play.m3u8
+ 
 #EXTINF:-1 ,CABA TV Cable - CD Cd Aut Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
 
 #EXTINF:-1 tvg-id="26tv.ar" tvg-name="26tv.ar" tvg-logo="https://i.imgur.com/2l44xid.png", Canal 26 HD
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1,ARGENTINA:Canal 26
-http://200.115.193.177/live/26hd-720/.m3u8
-
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ps.png",CNNE
 http://190.92.95.37:8000/play/a0ps/index.m3u8
-
 
 #EXTINF:-1 tvg-id="26tv.ar" tvg-name="26tv.ar" tvg-logo="https://i.imgur.com/2l44xid.png", Canal 26 HD
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
@@ -59,15 +45,10 @@ http://200.115.193.177/live/26hd-720/playlist.m3u8
 https://panel.dattalive.com/8250/8250/playlist.m3u8
 #EXTINF:-1,CINE.AR (720p)
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-
-
 #EXTINF:-1,GenTV (720p)
 https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1,Canal 8 (Catacaos)
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pp.png",AXN
 http://190.83.119.67:8000/play/a0pp/index.m3u8
@@ -97,12 +78,10 @@ http://190.83.119.67:8000/play/a0ns/index.m3u8
 http://190.83.119.67:8000/play/a0qt/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0op.png",CARTOON NT HD
 http://190.83.119.67:8000/play/a0op/index.m3u8
-
 #EXTINF:-1, GenTV (720p)
 https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1,TeleJunín (576p)
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
-
 #EXTINF:-1,Telemax (720p
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1,Vallenato Internacional (720p)
@@ -238,31 +217,25 @@ http://190.92.95.37:8000/play/a0pk/index.m3u8
 #EXTINF:-1,Cine +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 
-
-#EXITINF:1-,UNIVERSAL CINEMA
+#EXTINF:1-,UNIVERSAL CINEMA
 http://190.83.119.67:8000/play/a0om/index.m3u8
-
-
-#EXITINF:1-,UNIVERSAL CRIME
+#EXTINF:1-,UNIVERSAL CRIME
 http://190.83.119.67:8000/play/a0sj/index.m3u8
 
-
-
-
-#EXITINF:1-,Univision HD
+#EXTINF:1-,Univision HD
 http://190.83.119.67:8000/play/a0v0/index.m3u8
 
 
     
-#EXITINF:1-,WARNER HD
+#EXTINF:1-,WARNER HD
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 
 
-#EXITINF:1-,HBO XTREME
+#EXTINF:1-,HBO XTREME
 http://190.83.119.67:8000/play/a0ov/index.m3u8
 
 
-#EXITINF:1-,HBO2 HD
+#EXTINF:1-,HBO2 HD
 http://190.83.119.67:8000/play/a0os/index.m3u8
 
 
@@ -276,18 +249,8 @@ http://190.83.119.67:8000/play/a0sl/index.m3u8
 http://190.83.119.67:8000/play/a0ph/index.m3u8
 
 
-#EXITINF:1-,STAR CHANNEL HD
+#EXTINF:1-,STAR CHANNEL HD
 http://190.83.119.67:8000/play/a0si/index.m3u8
-
-
-
-
-
-
-
-
-
-
 
 
 
