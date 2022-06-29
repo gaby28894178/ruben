@@ -1,47 +1,72 @@
 #EXTM3U
 
-#EXTINF:-1,AMERICA 2 EN VIVO
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoIFRqgn-qKnor-yRDpG_bmGP262df8SSlMgv-Uipn46e4ieyW_wVMj0BTgV0vHakoFJdQ2tiiHwTeo2CwjQOdsibMXVj91tF2dSPDjXigwx30GchnATQT6b2jKkUPKEtW5nJTrD6a64WbaUHo6_fRZxagQNhRmOOgB5RTttw-xYn5oAuA4I--kMkSuoPsieuTbiMm5AWStbAPrHtuqdq1satTF9W1zlZWp3XE6WibRD37fQvS1ShsfMkxL51TDe193OHyw60KOwk93vdHIBsEV2BSYlN0IYfT04Zf_lknEnuvDhsgEs3eMXXFszMEok2NV2hPX75Zv7VzWa95sk7KFk6XGrzordWaVPIblPyB1u2jHQJdpYi0XqmuVTuTd4SkX0zRp0VipL9khLkG1nyVDKy9fHG3GxWe0M64zxUJse_jnmH2f6RgtGuHLSJZC_4umbM0pu_EEhnKKFgl4yCs0APNVO5M5pw5wI7Lx0NQFuX2pRSGblOhZiIiXDwWU4-WOu2G9ymQxJMYn3kEK5HjlHqgrc74lGUig5QxZSB1jmgiwAaSdD4Uaue7OKiIjUgKf0cywxCb46gdDt4ennHipZJm-Q7hWDtA4ecQTG4v_4r0YyYKT6LeBAgreP5ejoGf7IlBGwi6Iqco80wXJpxTNjSPcvhQadd5Z2LrVenzLc827lFDVCJKSAAfY_4zpfkNz1XHJ4r8KDDZ7-9yeKEc8j6skm8W57atlZI44xUgJ8IDOMsG3LawoHBH-ouZ97ErEPudO7sTChWRnIIykgUvFtgOXF8ww-NteQ0ljfVR-CTlJP1-yyWLbJMHk2CC1UcD-giz2GOQflA8Sa_AyE5Sq-3Qy5Ggxb8bp5ki4C4cpEJm4gASoJZXUtd2VzdC0yMIkE.m3u8
-#EXTINF:-1,EL NUEVE EN VIVO
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CogFiplv_LZ6J33FY2h9eba9UoKtZNyqET-p7rsPVW-cz88d0DJ7g3sK77rkLP8mchZ7eKPHxatBx3-FX58UmiIIlw4qg9oWQVu7TWea6ZXL44bNQPRAptqnipmArY2zTpqfN6VvVahk5_mqkTbAEC8qEhW21Ov90K5ODKcaJHPJ1d9YzhV7_TGizvPbMWpAe9pikFJVecdxnjrj-NsV4_Zk8YO0BCu2ApLQwzacJ0ccNHEiC5pcOTGF0BPxbPwRXvdixX_oyas0iyTGx13VZ79p3wUCrlgt5SrfIe_QzwSMSo4OlgtYjoza3GEjg_uamKD_YmnLM1pc0SSqewGImbtwmkPmpCrcV_M-SX8dP53L39Vg_ZCgbvglZnwrGAVa_0tzdPARrvaCVA6-2egTnoJ8rGKlntNnqj2yKVzy1L9bq3jdtYCmGxCBWyDgz-EPl34h9mKEoBWdohB7nLvWYVhC1Jv6k52IdcBMHsGTIhiw2w1HaNm5YZ-zgalw5Xtc37RCAJIvkchDKlIpl9AGK8oLlSUYaPCEkpaNex73-RX03CUJCkiK8RYFU4Jzs1-UoQCdGE95td1_cxEvmubKhRdKNmmnK82jEHT7XHSjvFhdr86VfzeZwU5YJ77ept5iESLvD-JYWl1ynDa1bg5rvmhaOQSzE3GhDyvq_ITrW22U7R0dU8vR7DhmQNFa19iG9s7GmBp4JAgIvy600ywo7u42PYmZpF0oayMkTksEdq6p4TPiMIkQENpAPQTFF0pca17B8aUgesmX4Pt_6i8mgDOfcTxnoh-3JQF0DrOLYXKxAs_cW4eulZu2f178-vlk8nSS9rHV6a4PWRjX0mzVV9iJi6-tJwUBs5pcGgyqJ2D7RhJt06SruCwgASoJZXUtd2VzdC0yMIkE.m3u8
+#EXTINF:-1tvg-logo="https://www.ver-television.online/images/americatv_.png",AMERICA 2 EN VIVO 
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+
+
+
+#EXTINF:-1tvg-logo="https://www.ver-television.online/images/elnueve_.png",EL NUEVE EN VIVO 
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+
+
 #EXTINF:-1,EL TRECE EN VIVO
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoQFwUBxbQLNrt9_KBP69KlVSUO6-QI6SvDl9XEEeG52F5sly66hjCfwFfVqhA8vzIhvx-HtXhE3ChyZT8PcEDgkDJ4x4loJW-RH19dn9vGbM7lkJ9SuHQCzzkZD_LxboOS4dhjXlJJbKtWnoeJsxR6Y-vmLiFnN48feY_ICqshBzoMiR3bruz9WnT_sa8rRz3mXdkq0_y0y7gtDXhVUEeVRF3Q8l0fafOxfMu5yzhEZO8DuO5pX0JViTI5N3DwnMFiXBN5oI99P7YBhYMzupSOtMnhUtagPrKmPbe4olb6xWycIzED6-bK6MBr_kx2Fcp5LC9poGPprgcdzGrGI57Hc5yXN9ZWpaiouHhJViGdWRqyiPI20CqHfdK_FGbBDXXxFwLwXBEnJt3UN2sEMsMcHOQup3z9B-JQdW3uU9uH2Ncd3zJ4F4SdL67wIzNjD2VNvVvZzDuOIz5tHnNHc1yoY4z5nZ0lBkIclzlFO085Bb9To-0H98PuBwJtYgHQYsgpvoCGP720GZD3NdoWJrrTTLfUpIFtXO6kh6KrdBsBkIwSbfpqbPAPUEPtOyFZBGLC3FjFcnE-26y6QTAltp6TgxEfdPH0tZlxfBoEcTRcSh7iZUCXcsPgFgSvHpPKwLVzEyVt3a3flqdtd2cJgjzc8Rv98HqpvaISxnvbJjz3cCNQgEg3O9m7wPeBF5TBrrUePToFJLiBmqPgGTwQw-X8Zv9jgTO1lrcV1f7asyOecITRk4s6yNhh1CbcHvPy3dLraBTsuwHw0x8-o0X5Xx8YWvoqyOZwbKeY0r7LhqzaVrkMeLuFkcrD74QjLfXtUi4_svxJ-p1aqaBTF_n2winL4PRBFw0oaDAC83eNAGEGxshB01iABKglldS13ZXN0LTIwiQQ.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+
 #EXTINF:-1,TELEFE EN VIVO
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoIFivJer3V5b4yNlZRq79QVZbwwerOrLCZ5Us7M3OItWglHCv42sbkcyxG41RhkqqE6XSJtxkfD37N9vVU3JvpbrNlvwEq2zx0mw1Wh06Wt1kz3LjpG0BMGyPNnh7-ORXyqxnEsd8iC7p36jKBKeKDao0pAuKmPtXjY4mUkCuqqLXrasgtSxCbbl0FYpG-7VZONyXALdftAGarxJydr5RluXi8Yo9KA5rxqoZwdaTahw4H7EcmarRaKcOY_Wr4gTwgooxqz9FSxyqKPw6kWmTewokozc5Qdz8q9jvcEKKh6__ojvWjLCrSB5fhrBsgYvXlDdUPXJpbPMm0RvSi_YxkghUfuyOj0fjmn6VWfHBB-vMkMcGDnnrunW39J6sZpIk2nF206UkyPQjYQMdMjk188udgnUr-DEuuTA0jS8rDix1mXzsIblCsabvr540E4QWHzZS1xmJezueIgYDZ5EvFTAZTSs2D2YfkzMr_HbIbGx99c90L3IYsm7dlO2af10kSKbZbqnR2g-a_Y-3KyTLux10BXrGu27QzHzdh6FfhQ091LnTvA27d-lhyPRRx1HY3W8ovP0teZ0j1tCOplVYrooMNd6HKnilzulA4MW3XmSigP9_16Dncfx0Q5d29DqNOlP2dlffQh7XqzZxstNhvvVVKoqVRvSduDAfGnC9BtH0xvIAZU2CSsF9OjNv-lCWKQNk2J2KTZfrRKNyi5VXRad-B2Qdjiw2d-eHxAKwjzgsKzDWtv7zMPnjx9I5cqCFsbKpMwqameXO6EpkSARzmdh8b4KTr-G-BAYiVJmY_yp-CiTsrkACP25VAyOkPHTaAPXumZZuXhMqBH_uWO_X_zJcyHGgyorf77RsT7pvCRutAgASoJZXUtd2VzdC0yMIkE.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+#EXTINF:-1,canal-telemax-en-vivo
+https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
+
+
+
 #EXTINF:-1,CANAL NET EN VIVO
 https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+
 #EXTINF:-1,CANAL 9 MULTIVICION en VIVO
 https://panel.dattalive.com/8250/8250/playlist.m3u8
+
 #EXTINF:-1,CANAL 5 TELESOL EN VIVO
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1,RURAL
 https://cda2.alsolnet.com/elrural/live/chunklist_w228935194.m3u8
+
 #EXTINF:-1,EL TRES TV
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w2117475341_b1013840.m3u8
+
 #EXTINF:-1,7 La Rioja (1080p) [Not 24/7]
 https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
+
 #EXTINF:-1,7 Noticias (1080p)
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
+
 #EXTINF:-1,A24 (720p)
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
 #EXTINF:-1,TELERITMO
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
 #EXTINF:-1,Locomotion TV (480p) [Not 24/7]
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,Cinco TV (480p) [Not 24/7]
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
 #EXTINF:-1,Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+
 #EXTINF:-1,Mega TV (Jaen) (720p) [Not 24/7]
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
+ 
 #EXTINF:-1, ,CABA TV Cable - CD Cd Aut Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
-#EXTINF:-1, tvg-id="26tv.ar" tvg-name="26tv.ar" tvg-logo="https://i.imgur.com/2l44xid.png", Canal 26 HD
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1, PARAMOUNT HD
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/600728952b1776000776526d/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=38328e08-4c77-4e47-af75-5f8337d18bf8&deviceVersion=103.0.0&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&deviceType=web&deviceMake=chrome&sid=4712503a-f7db-11ec-8cb0-0242ac110003&advertisingId=&deviceLat=-34.5326&deviceLon=-58.753&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImE3M2ZlN2NjLTdiMjktNDlkYy05ZWE4LTUzZDAzZTc2NmMzNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI0NzEyNTAzYS1mN2RiLTExZWMtOGNiMC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjEzOC4xMjIuMTg5LjEyOCIsImNpdHkiOiJTYW4gTWlndWVsIiwicG9zdGFsQ29kZSI6IjE2NjMiLCJjb3VudHJ5IjoiQVIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMzQuNTMyNiwiZGV2aWNlTG9uIjotNTguNzUzLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMDMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjIuMS0wNDFiNmE5NmQyNzk1OTk5NTc3NTMyYTQ2NTQ5MGZlNjIwMjY1NzI4IiwiY2xpZW50SUQiOiIzODMyOGUwOC00Yzc3LTRlNDctYWY3NS01ZjgzMzdkMThiZjgiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9BcmdlbnRpbmEvQnVlbm9zX0FpcmVzIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NjU1Njk3MCwianRpIjoiYmE4MDU5NDAtZWM4My00ZDc5LTljZTMtMmI4YzFhMDQ5YTRiIiwiaWF0IjoxNjU2NTI4MTcwLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TXpnek1qaGxNRGd0TkdNM055MDBaVFEzTFdGbU56VXROV1k0TXpNM1pERTRZbVk0In0.bxCQFGENNP0YBPfIExwWewhA6cG5IIVSeXlJYd8eeWQ
+
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ps.png",CNNE
 http://190.92.95.37:8000/play/a0ps/index.m3u8
+
 #EXTINF:-1, tvg-id="26tv.ar" tvg-name="26tv.ar" tvg-logo="https://i.imgur.com/2l44xid.png", Canal 26 HD
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
 #EXTINF:-1,ARGENTINA:Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1,Canal 13 La Rioja (480p)
@@ -56,6 +81,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1,Canal 8 (Catacaos)
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+#EXTINF:-1,DEPORTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.m3u8
+
 #EXTINF:-1, tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pp.png",AXN
 http://190.83.119.67:8000/play/a0pp/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qe.png",AZ click HD
@@ -92,6 +120,13 @@ https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1,Vallenato Internacional (720p)
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0sh.png",Claro Cinema
 http://190.92.95.37:8000/play/a0sh/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0re.png",Claro Musica
@@ -130,14 +165,19 @@ http://190.92.95.37:8000/play/a0ny/index.m3u8
 http://190.92.95.37:8000/play/a0tc/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pb.png",Disney JR
 http://190.92.95.37:8000/play/a0pb/index.m3u8
+
+
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p8.png",Cartoon Network
 http://190.92.95.37:8000/play/a0p8/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pa.png",Cartoonito
 http://190.92.95.37:8000/play/a0pa/index.m3u8
+
+
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0s7.png",E!
 http://190.92.95.37:8000/play/a0s7/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0q5.png",E! Entertairment HD
 http://190.92.95.37:8000/play/a0q5/index.m3u8
+
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pu.png",France24
 http://190.92.95.37:8000/play/a0pu/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rh.png",Golden
@@ -154,8 +194,10 @@ http://190.92.95.37:8000/play/a0se/index.m3u8
 http://190.92.95.37:8000/play/a0py/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0sf.png",ESPN 2
 http://190.92.95.37:8000/play/a0sf/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pm.png",Fox Sport 3
 http://190.92.95.37:8000/play/a0pm/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r4.png",FX
 http://190.92.95.37:8000/play/a0r4/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qa.png",FX HD
@@ -172,6 +214,8 @@ http://190.92.95.37:8000/play/a0ou/index.m3u8
 http://190.92.95.37:8000/play/a0or/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ot.png",HBO Plus HD
 http://190.92.95.37:8000/play/a0ot/index.m3u8
+
+
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rd.png",Latin America Sport
 http://190.92.95.37:8000/play/a0rd/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qx.png",MASTV - PAN
@@ -194,11 +238,69 @@ http://190.92.95.37:8000/play/a0nu/index.m3u8
 http://190.92.95.37:8000/play/a0o5/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0og.png",Multimedios
 http://190.92.95.37:8000/play/a0og/index.m3u8
+
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qw.png",NEXT - PAN
 http://190.92.95.37:8000/play/a0qw/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0t8.png",Nat Geo HD
 http://190.92.95.37:8000/play/a0t8/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pk.png",National Geographic
 http://190.92.95.37:8000/play/a0pk/index.m3u8
+
+
+
 #EXTINF:-1,Cine +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:1-,UNIVERSAL CINEMA
+http://190.83.119.67:8000/play/a0om/index.m3u8
+#EXTINF:1-,UNIVERSAL CRIME
+http://190.83.119.67:8000/play/a0sj/index.m3u8
+
+#EXTINF:1-,Univision HD
+http://190.83.119.67:8000/play/a0v0/index.m3u8
+
+
+    
+#EXTINF:1-,WARNER HD
+http://190.83.119.67:8000/play/a0tk/index.m3u8
+
+
+#EXTINF:1-,HBO XTREME
+http://190.83.119.67:8000/play/a0ov/index.m3u8
+
+
+#EXTINF:1-,HBO2 HD
+http://190.83.119.67:8000/play/a0os/index.m3u8
+
+
+#EXTINF:1-,CINECANAL HD
+http://190.83.119.67:8000/play/a0sl/index.m3u8
+
+
+
+
+#EXTINF:1-,SPACE
+http://190.83.119.67:8000/play/a0ph/index.m3u8
+
+
+#EXTINF:1-,STAR CHANNEL HD
+http://190.83.119.67:8000/play/a0si/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
