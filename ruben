@@ -2,9 +2,9 @@
 
 #EXTINF:-1, tvg-id="TNT SPORT " tvg-name="TNT Sport" tvg-logo="https://www.ver-television.online/images/tntsports_.png",TNT SPORT-EN VIVO
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Am%C3%A9rica_TV_2018.png/revision/latest?cb=20200123155022&path-prefix=es",AMERICA 2 EN VIVO 
+#EXTINF:-1,tvg-logo="https://www.ver-television.online/images/americatv_.png",AMERICA 2 EN VIVO 
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+
 
 
 
