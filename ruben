@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,tvg-Logo="https://www.ver-television.online/images/tntsports_.png",TNR SPORT-EN VIVO
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
 #EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Am%C3%A9rica_TV_2018.png/revision/latest?cb=20200123155022&path-prefix=es",AMERICA 2 EN VIVO 
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
