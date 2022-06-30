@@ -1,4 +1,4 @@
-#EXTM3U
+
 
 #EXTM3U
 
@@ -53,8 +53,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 
 
 
-#EXTINF:-1,TELERITMO
-http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
+
 
 #EXTINF:-1,tvg-id="locomotion" tvg-name="locomotion" tvg-logo="https://scontent.feze6-1.fna.fbcdn.net/v/t1.6435-9/55719511_2369359009964983_400860168297906176_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=rSkxBgGWGssAX_GMMzg&_nc_ht=scontent.feze6-1.fna&oh=00_AT_K_YyyC6uMGTYv8IntZ-Dg7QY0B8QGA3d-UmXLVOm6ew&oe=62E3E2CD",Locomotion TV (480p) [Not 24/7]
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -73,24 +72,12 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 
 
 
-#EXTINF:-1,Canal 26 (720p)
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1,CANAL.9 MULTIVISION (720p)
-https://panel.dattalive.com/8250/8250/playlist.m3u8
-#EXTINF:-1,CINE.AR (720p)
+#EXTINF:-1,tvg-id="CINE.AR (720p)"tvg-name=""tvg-logo="https://1.bp.blogspot.com/-WWo-wPrp9c0/X9agAAWUkMI/AAAAAAAA7p0/BfYCqVVBNdE2SGSUP2VtGJoEHCqV1jB4gCLcBGAsYHQ/s639/cine-ar.png",CINE AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1,GenTV (720p)
-https://videohd.live:19360/8010/8010.m3u8
-#EXTINF:-1,Canal 8 (Catacaos)
-https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
-
 
 
 #EXTINF:-1, tvg-id="TV GEN" tvg-name=" GenTV (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTXN7NEo-_JbL1SUkhyU_9N5XyTxYmQvtFdy3uEz-ug&s",TV GEN
 https://videohd.live:19360/8010/8010.m3u8
-
-#EXTINF:-1,TeleJunín (576p)
-https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 
 
 
@@ -182,22 +169,37 @@ http://190.92.95.37:8000/play/a0r4/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oj.png",Film & Arts
 http://190.92.95.37:8000/play/a0oj/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r7.png",H2
-http://190.92.95.37:8000/play/a0r7/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ou.png",HBO Family HD
-http://190.92.95.37:8000/play/a0ou/index.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ou.png",HBO Extreme
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0or.png",HBO HD
-http://190.92.95.37:8000/play/a0or/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ot.png",HBO Plus HD
-http://190.92.95.37:8000/play/a0ot/index.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ot.png",HBO Plus 
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 
 
 
 
 
 
-
-#EXTINF:1-,tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/small.945333694_UniversalCinema-Oscuro.png.78ffedab3da97dcbfdfc8b8e530a1c79.png",UNIVERSAL CINEMA
+#EXTINF:1-,tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/small.945333694_UniversalCinema-Oscuro.png.78ffedab3da97dcbfdfc8b8e530a1c79.png",UNIVERSAL Crimen
 http://190.83.119.67:8000/play/a0om/index.m3u8
+
+
+#EXTINF:1-, tvg-id="PARAMOUNT" tvg-name="PARAMOUN-CHANNEL " tvg-logo="https://www.ver-television.online/images/paramount_.png",PARAMONT
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+
+#EXTINF:1-, tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.ver-television.online/images/tnt_.png",TNT
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+
+
+
+#EXTINF:1-,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://www.ver-television.online/images/cinemax_.png",CIENEMAX
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
 
 #EXTINF:1-,UNIVERSAL CINE
@@ -217,18 +219,6 @@ http://190.83.119.67:8000/play/a0sl/index.m3u8
 http://190.83.119.67:8000/play/a0ph/index.m3u8
 #EXTINF:1-,STAR CHANNEL HD
 http://190.83.119.67:8000/play/a0si/index.m3u8
-
-
-#EXTINF:1-,CINEMAX
-https://edge-live16-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
-
-#EXTINF:1-,PARAMOUN-CHANNEL 
-https://edge-live16-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
-
-#EXTINF:1-,TNT
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
-
-
 
 
 
@@ -267,6 +257,22 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.
 #EXTINF:-1,CANAL 9 MULTIVICION en VIVO
 https://panel.dattalive.com/8250/8250/playlist.m3u8
 
+
+
+
+#EXTINF:-1,TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
+
+
+
+#EXTINF:-1,TeleJunín (576p)
+https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
+
+
+#EXTINF:-1,GenTV (720p)
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1,Canal 8 (Catacaos)
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
 
 
