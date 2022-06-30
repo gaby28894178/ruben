@@ -9,11 +9,12 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.
 
 
 
+
 #EXTINF:-1,tvg-logo="https://www.ver-television.online/images/elnueve_.png",EL NUEVE EN VIVO 
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 
 
-#EXTINF:-1,EL TRECE EN VIVO
+#EXTINF:-1,tvg-id=""EL TRECE EN VIVO" tvg-name="El Trece" tvg-logo="https://www.ver-television.online/images/eltrece_.png",Canal Trece En Vivo
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 
 #EXTINF:-1,TELEFE EN VIVO
