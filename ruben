@@ -1,5 +1,6 @@
 #EXTM3U
 
+#EXTM3U
 
 
 #EXTINF:-1, tvg-id="AMERICA DOS " tvg-name="AMERICA 2 " tvg-logo="https://www.ver-television.online/images/americatv_.png",AMERICA 2 EN VIVO 
@@ -55,21 +56,8 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1,TELERITMO
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
 
-#EXTINF:-1,Locomotion TV (480p) [Not 24/7]
+#EXTINF:-1,tvg-id="locomotion" tvg-name="locomotion" tvg-logo="https://scontent.feze6-1.fna.fbcdn.net/v/t1.6435-9/55719511_2369359009964983_400860168297906176_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=rSkxBgGWGssAX_GMMzg&_nc_ht=scontent.feze6-1.fna&oh=00_AT_K_YyyC6uMGTYv8IntZ-Dg7QY0B8QGA3d-UmXLVOm6ew&oe=62E3E2CD",Locomotion TV (480p) [Not 24/7]
 http://51.222.85.85:81/hls/loco/index.m3u8
-
-#EXTINF:-1,Cinco TV (480p) [Not 24/7]
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-
-    
-#EXTINF:-1, tvg-id="TNT SPORT " tvg-name="TNT Sport" tvg-logo="https://www.ver-television.online/images/tntsports_.png",TNT SPORT-EN VIVO
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-
-#EXTINF:-1,Mega TV (Jaen) (720p) [Not 24/7]
-https://tv.portalexpress.es:3399/hybrid/play.m3u8
- 
-#EXTINF:-1, ,CABA TV Cable - CD Cd Aut Bs As
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
 
 
 
@@ -80,8 +68,11 @@ http://190.92.95.37:8000/play/a0ps/index.m3u8
 http://200.115.193.177/live/26hd-720/.m3u8
 
 
-#EXTINF:-1,Canal 13 La Rioja (480p)
+#EXTINF:-1,tvg-id="anal 13 La Rioja" tvg-name="canal 13 Rioja" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/13rioja-324x160.png",El 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
+
+
+
 #EXTINF:-1,Canal 26 (720p)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1,CANAL.9 MULTIVISION (720p)
@@ -95,19 +86,11 @@ https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
 
 
-#EXTINF:-1, GenTV (720p)
+#EXTINF:-1, tvg-id="TV GEN" tvg-name=" GenTV (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTXN7NEo-_JbL1SUkhyU_9N5XyTxYmQvtFdy3uEz-ug&s",TV GEN
 https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1,TeleJunín (576p)
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
-
-#EXTINF:-1,Telemax (720p
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,Vallenato Internacional (720p)
-https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-
-
-
 
 
 
@@ -136,13 +119,12 @@ http://190.92.95.37:8000/play/a0pb/index.m3u8
 http://190.92.95.37:8000/play/a0p8/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p8.png",Cartoon Network HD
 http://190.83.119.67:8000/play/a0op/index.m3u8
+#EXTINF:-1. tvg-id="Bumerang" tvg-name="Bumerang" tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png",Bumerang(Cartoonito)
 http://190.92.95.37:8000/play/a0pa/index.m3u8
 
 
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0s7.png",E!
 http://190.92.95.37:8000/play/a0s7/index.m3u8
-#EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0q5.png",E! Entertairment HD
-http://190.92.95.37:8000/play/a0q5/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pu.png",France24
 http://190.92.95.37:8000/play/a0pu/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rh.png",Golden
@@ -155,7 +137,7 @@ http://190.92.95.37:8000/play/a0oz/index.m3u8
 http://190.92.95.37:8000/play/a0se/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0py.png",ESPN  +
 http://190.92.95.37:8000/play/a0py/index.m3u8
-#EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0sf.png",ESPN 2
+#EXTINF:-1, tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://pbs.twimg.com/media/EffKmhtXYAAP193.jpg",ESPN 2
 http://190.92.95.37:8000/play/a0sf/index.m3u8
 #EXTINF:-1, tvg-id="Fox_Sports_Premiun_HD" tvg-name="Fox_Sports_Premiun_HD" tvg-logo="https://www.ver-television.online/images/foxsportspremium_.png",Fox_Sports_Premiun_HD
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
@@ -163,10 +145,9 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCO
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pm.png",Fox Sport 3
 http://190.92.95.37:8000/play/a0pm/index.m3u8
+
 #EXTINF:-1, tvg-id="TNT SPORT " tvg-name="TNT Sport" tvg-logo="https://www.ver-television.online/images/tntsports_.png",TNT SPORT-EN VIVO
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-
-
 
 
 
@@ -177,12 +158,8 @@ http://190.92.95.37:8000/play/a0rd/index.m3u8
 http://190.92.95.37:8000/play/a0qx/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rf.png",MTV 00s
 http://190.92.95.37:8000/play/a0rf/index.m3u8
-#EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0sw.png",MTV 00s HD
-http://190.92.95.37:8000/play/a0sw/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0po.png",MTV 80s
 http://190.92.95.37:8000/play/a0po/index.m3u8
-#EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pz.png",MTV HD
-http://190.92.95.37:8000/play/a0pz/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pn.png",MTV Hits
 http://190.92.95.37:8000/play/a0pn/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0sv.png",MTV SIM HD
@@ -196,20 +173,14 @@ http://190.92.95.37:8000/play/a0og/index.m3u8
 
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qw.png",NEXT - PAN
 http://190.92.95.37:8000/play/a0qw/index.m3u8
-#EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0t8.png",Nat Geo HD
-http://190.92.95.37:8000/play/a0t8/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pk.png",National Geographic
 http://190.92.95.37:8000/play/a0pk/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r4.png",FX
 http://190.92.95.37:8000/play/a0r4/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qa.png",FX HD
-http://190.92.95.37:8000/play/a0qa/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oj.png",Film & Arts
 http://190.92.95.37:8000/play/a0oj/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0q6.png",Film & arts HD
-http://190.92.95.37:8000/play/a0q6/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r7.png",H2
 http://190.92.95.37:8000/play/a0r7/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ou.png",HBO Family HD
@@ -219,10 +190,19 @@ http://190.92.95.37:8000/play/a0or/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ot.png",HBO Plus HD
 http://190.92.95.37:8000/play/a0ot/index.m3u8
 
-#EXTINF:1-,UNIVERSAL CINEMA
+
+
+
+
+
+
+#EXTINF:1-,tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/small.945333694_UniversalCinema-Oscuro.png.78ffedab3da97dcbfdfc8b8e530a1c79.png",UNIVERSAL CINEMA
 http://190.83.119.67:8000/play/a0om/index.m3u8
+
+
 #EXTINF:1-,UNIVERSAL CINE
 http://190.83.119.67:8000/play/a0sj/index.m3u8
+
 #EXTINF:1-,Univision HD
 http://190.83.119.67:8000/play/a0v0/index.m3u8
 #EXTINF:1-,WARNER HD
@@ -286,12 +266,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.
 
 #EXTINF:-1,CANAL 9 MULTIVICION en VIVO
 https://panel.dattalive.com/8250/8250/playlist.m3u8
-
-
-
-
-
-
 
 
 
