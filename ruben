@@ -2,7 +2,8 @@
 
 #EXTINF:-1, tvg-id="TNT SPORT " tvg-name="TNT Sport" tvg-logo="https://www.ver-television.online/images/tntsports_.png",TNT SPORT-EN VIVO
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1,tvg-logo="https://www.ver-television.online/images/americatv_.png",AMERICA 2 EN VIVO 
+
+#EXTINF:-1, tvg-id="AMERICA DOS " tvg-name="AMERICA 2 " tvg-logo="https://www.ver-television.online/images/americatv_.png",AMERICA 2 EN VIVO 
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
 
