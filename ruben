@@ -1,40 +1,39 @@
-
-
 #EXTM3U
 
 
-#EXTINF:-1, tvg-id="AMERICA DOS " tvg-name="AMERICA 2 " tvg-logo="https://www.ver-television.online/images/americatv_.png",AMERICA 2 EN VIVO 
+#EXTINF:-1, tvg-chano="0"tvg-id="AMERICA DOS " tvg-name="AMERICA 2 " tvg-logo="https://www.ver-television.online/images/americatv_.png",AMERICA 2 EN VIVO 
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
 
 
 
-#EXTINF:-1, tvg-id="EL Nueve" tvg-mame="El Nueve" tvg-logo="https://www.ver-television.online/images/elnueve_.png",EL NUEVE EN VIVO 
+#EXTINF:-1,tvg-chano="1" tvg-id="EL Nueve" tvg-mame="El Nueve" tvg-logo="https://www.ver-television.online/images/elnueve_.png",EL NUEVE EN VIVO 
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 
 
-#EXTINF:-1,tvg-id="EL TRECE EN VIVO" tvg-name="El Trece" tvg-logo="https://www.ver-television.online/images/eltrece_.png",Canal Trece En Vivo
+#EXTINF:-1, tvg-chano="2"tvg-id="EL TRECE EN VIVO" tvg-name="El Trece" tvg-logo="https://www.ver-television.online/images/eltrece_.png",Canal Trece En Vivo
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+
+
+
+#EXTINF:-1, tvg-chano="3"tvg-id="TELEFE "tvg-name="TELEFE EN VIVOT"tvg-logo="https://www.ver-television.online/images/telefe_.png",TELEFE EN VIVO
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 
 
-
-#EXTINF:-1, tvg-id="TELEFE "tvg-name="TELEFE EN VIVOT"tvg-logo="https://www.ver-television.online/images/telefe_.png",TELEFE EN VIVO
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
-
-
-#EXTINF:-1, tvg-id="Telemax-en-vivo" tvg-name="Telemazx"tvg-logo="https://www.ver-television.online/images/telemax_.png",TELEMAX
+#EXTINF:-1, tvg-chano="4" tvg-id="Telemax-en-vivo" tvg-name="Telemazx"tvg-logo="https://www.ver-television.online/images/telemax_.png",TELEMAX
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
 
 
-#EXTINF:-1,tvg-id="NET" tvg-name="NET"tvg-logo="https://www.tvargentinahd.com/img/net.png",CANAL NET EN VIVO
+#EXTINF:-1, tvg-chano="5"tvg-id="NET" tvg-name="NET"tvg-logo="https://www.tvargentinahd.com/img/net.png",CANAL NET EN VIVO
 https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
 
 
 
 
-#EXTINF:-1, tvg-id="TLS" tvg-name="TLS" tvg-logo="https://www.tvargentinahd.com/img/telesol.png",CANAL 5 TELESOL EN VIVO
+#EXTINF:-1, tvg-chano="6"tvg-id="TLS" tvg-name="TLS" tvg-logo="https://www.tvargentinahd.com/img/telesol.png",CANAL 5 TELESOL EN VIVO
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 
@@ -64,7 +63,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 http://190.92.95.37:8000/play/a0ps/index.m3u8
 
 #EXTINF:-1, tvg-id="26tv.ar" tvg-name="26tv.ar" tvg-logo="https://i.imgur.com/2l44xid.png", Canal 26 
-http://200.115.193.177/live/26hd-720/.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?
 
 
 #EXTINF:-1,tvg-id="anal 13 La Rioja" tvg-name="canal 13 Rioja" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/13rioja-324x160.png",El 13 La Rioja
@@ -90,18 +89,22 @@ http://190.92.95.37:8000/play/a0re/index.m3u8
 http://190.92.95.37:8000/play/a0o2/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ra.png",Claro Sports SD
 http://190.92.95.37:8000/play/a0ra/index.m3u8
-#EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0s0.png",Color Vision 9 - RD
-http://190.92.95.37:8000/play/a0s0/index.m3u8
-#EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ok.png",DHE
-http://190.92.95.37:8000/play/a0ok/index.m3u8
-#EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qp.png",Digital 15 - RD
-http://190.92.95.37:8000/play/a0qp/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0sa.png",Discovery Channel
 http://190.92.95.37:8000/play/a0sa/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ny.png",Discovery Science
 http://190.92.95.37:8000/play/a0ny/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pb.png",Disney JR
-http://190.92.95.37:8000/play/a0pb/index.m3u8
+http://190.83.119.67:8000/play/a0p9/index.m3u8
+#EXTINF:-1, tvg-id="DisneyChanel" tvg-name="DisteyChanel" tvg-logo="https://www.ver-television.online/images/disneyxd_.png",DysneyChanel HD
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+
+#EXTINF:-1, tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://www.ver-television.online/images/nick_.png",Nickelodeon
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="NICK,js"tvg-logo="",NICK,js
+http://190.92.95.37:8000/play/a0p9/index.m3u8
+
+
+
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p8.png",Cartoon Network
 http://190.92.95.37:8000/play/a0p8/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p8.png",Cartoon Network HD
@@ -112,6 +115,7 @@ http://190.92.95.37:8000/play/a0pa/index.m3u8
 
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0s7.png",E!
 http://190.92.95.37:8000/play/a0s7/index.m3u8
+
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pu.png",France24
 http://190.92.95.37:8000/play/a0pu/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rh.png",Golden
@@ -136,6 +140,8 @@ http://190.92.95.37:8000/play/a0pm/index.m3u8
 #EXTINF:-1, tvg-id="TNT SPORT " tvg-name="TNT Sport" tvg-logo="https://www.ver-television.online/images/tntsports_.png",TNT SPORT-EN VIVO
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
+#EXITIF:-1,tvg-id="TYCSPORT"tvg-name="TYCSPORT"tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-cl-1246.png"TyCSport
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
 
 
@@ -166,6 +172,7 @@ http://190.92.95.37:8000/play/a0pk/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r4.png",FX
 http://190.92.95.37:8000/play/a0r4/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oj.png",Film & Arts
 http://190.92.95.37:8000/play/a0oj/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r7.png",H2
@@ -181,6 +188,10 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ot.png",HBO Plus 
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 
+#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ot.png",HBO Family
+http://190.83.119.67:8000/play/a0ou/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://190.92.95.37:8000/play/a0si/index.m3u8
 
 
 
@@ -215,16 +226,19 @@ http://190.83.119.67:8000/play/a0ov/index.m3u8
 http://190.83.119.67:8000/play/a0os/index.m3u8
 #EXTINF:1-,CINECANAL HD
 http://190.83.119.67:8000/play/a0sl/index.m3u8
+
+
 #EXTINF:1-,SPACE
 http://190.83.119.67:8000/play/a0ph/index.m3u8
-#EXTINF:1-,STAR CHANNEL HD
-http://190.83.119.67:8000/play/a0si/index.m3u8
 
+#EXTINF:1-,STAR CHANNEL HD
+http://190.83.119.67:8000/play/a0sl/index.m3u8
 
 
 
 #EXTINF:-1, tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pp.png",AXN
 http://190.83.119.67:8000/play/a0pp/index.m3u8
+
 #EXTINF:-1, tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qe.png",AZ click HD
 http://190.83.119.67:8000/play/a0qe/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sb.png",Animal Planet
@@ -273,7 +287,4 @@ https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1,Canal 8 (Catacaos)
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
-
-
-
 
