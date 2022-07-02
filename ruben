@@ -99,6 +99,9 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelod
 http://190.92.95.37:8000/play/a0p9/index.m3u8
 
 
+#EXTINF:-1, tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ns.png",Baby TV
+http://190.83.119.67:8000/play/a0ns/index.m3u8
+
 
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p8.png",Cartoon Network
 http://190.92.95.37:8000/play/a0p8/index.m3u8
@@ -165,6 +168,21 @@ http://190.92.95.37:8000/play/a0qw/index.m3u8
 http://190.92.95.37:8000/play/a0pk/index.m3u8
 
 
+
+
+
+#EXTINF:-1, tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pp.png",AXN
+http://190.83.119.67:8000/play/a0pp/index.m3u8
+
+
+
+
+
+#EXTINF:1-,tvg-id="SPACE"tvg-nema="SPACE"tvg-logo="https://www.ver-television.online/images/space_.png",SPACE
+http://190.83.119.67:8000/play/a0ph/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r4.png",FX
 http://190.92.95.37:8000/play/a0r4/index.m3u8
 
@@ -221,19 +239,10 @@ http://190.83.119.67:8000/play/a0ov/index.m3u8
 http://190.83.119.67:8000/play/a0os/index.m3u8
 #EXTINF:1-,CINECANAL HD
 http://190.83.119.67:8000/play/a0sl/index.m3u8
-
-
-
-#EXTINF:1-,tvg-id="SPACE"tvg-nema="SPACE"tvg-logo="https://www.ver-television.online/images/space_.png",SPACE
-http://190.83.119.67:8000/play/a0ph/index.m3u8
-
 #EXTINF:1-,STAR CHANNEL HD
 http://190.83.119.67:8000/play/a0sl/index.m3u8
 
 
-
-#EXTINF:-1, tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pp.png",AXN
-http://190.83.119.67:8000/play/a0pp/index.m3u8
 
 #EXTINF:-1, tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qe.png",AZ click HD
 http://190.83.119.67:8000/play/a0qe/index.m3u8
@@ -249,10 +258,7 @@ http://190.83.119.67:8000/play/a0pg/index.m3u8
 http://190.83.119.67:8000/play/a0s4/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pt.png",BBC World
 http://190.83.119.67:8000/play/a0pt/index.m3u8
-#EXTINF:-1, tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r3.png",Baby First
-http://190.83.119.67:8000/play/a0r3/index.m3u8
-#EXTINF:-1, tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ns.png",Baby TV
-http://190.83.119.67:8000/play/a0ns/index.m3u8
+
 #EXTINF:-1, tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qt.png",CANAL 13 - NI
 http://190.83.119.67:8000/play/a0qt/index.m3u8
 
