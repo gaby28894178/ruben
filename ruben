@@ -106,9 +106,8 @@ http://190.83.119.67:8000/play/a0ns/index.m3u8
 #EXTINF:-1,tvg-id="PAKAPAKA" tvg-name="PAKAPAKA" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pakapaka_m.png",PAKAPAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,tvg-logo="https://www.ver-television.online/images/discoverykids_.png",Discovery_Kids
+#EXTINF:-1,tvg-id="DISKOVERYKIDS"tvg-name="DiskoveryKids"tvg-logo="https://www.ver-television.online/images/discoverykids_.png",Discovery_Kids
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
-
 
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p8.png",Cartoon Network
 http://190.92.95.37:8000/play/a0p8/index.m3u8
