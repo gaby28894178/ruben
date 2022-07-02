@@ -1,21 +1,11 @@
 #EXTM3U
-
-
 #EXTINF:-1, tvg-chano="0"tvg-id="AMERICA DOS " tvg-name="AMERICA 2 " tvg-logo="https://www.ver-television.online/images/americatv_.png",AMERICA 2 EN VIVO 
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
-
-
-
 #EXTINF:-1,tvg-chano="1" tvg-id="EL Nueve" tvg-mame="El Nueve" tvg-logo="https://www.ver-television.online/images/elnueve_.png",EL NUEVE EN VIVO 
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
-
-
 #EXTINF:-1, tvg-chano="2"tvg-id="EL TRECE EN VIVO" tvg-name="El Trece" tvg-logo="https://www.ver-television.online/images/eltrece_.png",Canal Trece En Vivo
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-
-
 
 #EXTINF:-1, tvg-chano="3"tvg-id="TELEFE "tvg-name="TELEFE EN VIVOT"tvg-logo="https://www.ver-television.online/images/telefe_.png",TELEFE EN VIVO
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
