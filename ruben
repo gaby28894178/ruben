@@ -8,7 +8,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1, tvg-chano="3"tvg-id="TELEFE "tvg-name="TELEFE EN VIVOT"tvg-logo="https://www.ver-television.online/images/telefe_.png",TELEFE EN VIVO
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD-avc1_579968=10005.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
 
 #EXTINF:-1, tvg-chano="4" tvg-id="Telemax-en-vivo" tvg-name="Telemazx"tvg-logo="https://www.ver-television.online/images/telemax_.png",TELEMAX
