@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-chano="0"tvg-id="AMERICA DOS " tvg-name="AMERICA 2 " tvg-logo="https://www.ver-television.online/images/americatv_.png",AMERICA 2 EN VIVO 
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+https://gcdn.2mdn.net/videoplayback/id/8bd4a8064b2e43eb/itag/343/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3800358197/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/3FE2B156E0808487E3A7033EDE0A88092B201DC3.7CA9BC3E3B8E9E09B9F868AAFBF6315988174F05/key/ck2/file/file.mp4?cpn=FyRsn1IdOlcx5qIB
 
 #EXTINF:-1,tvg-chano="1" tvg-id="EL Nueve" tvg-mame="El Nueve" tvg-logo="https://www.ver-television.online/images/elnueve_.png",EL NUEVE EN VIVO 
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
@@ -12,7 +12,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3
 
 
 #EXTINF:-1, tvg-chano="4" tvg-id="Telemax-en-vivo" tvg-name="Telemazx"tvg-logo="https://www.ver-television.online/images/telemax_.png",TELEMAX
-https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1657062587~exp=1657069787~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=bc79968768e32013dc7e55789abaf4ede9540d23dcfdabc853356d7e91b3ab20
 
 
 
