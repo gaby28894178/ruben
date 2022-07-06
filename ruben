@@ -1,4 +1,13 @@
 #EXTM3U
+
+
+
+#EXTINF:-1,TV publica
+https://www.youtube.com/embed/n3_wuXh6jHY
+
+
+
+
 #EXTINF:-1, tvg-chano="0"tvg-id="AMERICA DOS " tvg-name="AMERICA 2 " tvg-logo="https://www.ver-television.online/images/americatv_.png",AMERICA 2 EN VIVO 
 https://gcdn.2mdn.net/videoplayback/id/8bd4a8064b2e43eb/itag/343/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3800358197/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/3FE2B156E0808487E3A7033EDE0A88092B201DC3.7CA9BC3E3B8E9E09B9F868AAFBF6315988174F05/key/ck2/file/file.mp4?cpn=FyRsn1IdOlcx5qIB
 
