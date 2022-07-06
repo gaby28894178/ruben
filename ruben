@@ -193,17 +193,17 @@ http://190.92.95.37:8000/play/a0r4/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oj.png",Film & Arts
 http://190.92.95.37:8000/play/a0oj/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r7.png",H2
-https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+http://190.83.119.67:8000/play/a0os/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ou.png",HBO Extreme
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
 
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0or.png",HBO HD
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+http://190.83.119.67:8000/play/a0or/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ot.png",HBO Plus 
-https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+http://190.83.119.67:8000/play/a0ot/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ot.png",HBO Family
 http://190.83.119.67:8000/play/a0ou/index.m3u8
