@@ -136,9 +136,9 @@ http://190.92.95.37:8000/play/a0sf/index.m3u8
 #EXTINF:-1, tvg-id="Fox_Sports_Premiun_HD" tvg-name="Fox_Sports_Premiun_HD" tvg-logo="https://www.ver-television.online/images/foxsportspremium_.png",Fox_Sports_Premiun_HD
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1, tvg-id"FoxSports2HD" tvg-name="FoxSports2HD" tvg-logo="https://www.ver-television.online/images/foxsports2_.png",FoxSports2HD
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+http://190.83.119.67:8000/play/a0rc/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pm.png",Fox Sport 3
-http://190.92.95.37:8000/play/a0pm/index.m3u8
+http://190.83.119.67:8000/play/a0t7/index.m3u8
 
 #EXTINF:-1, tvg-id="TNT SPORT " tvg-name="TNT Sport" tvg-logo="https://www.ver-television.online/images/tntsports_.png",TNT SPORT-EN VIVO
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
