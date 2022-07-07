@@ -1,37 +1,4 @@
 #EXTM3U
-
-
-
-#EXTINF:-1,TV publica
-https://www.youtube.com/embed/n3_wuXh6jHY
-
-
-
-
-#EXTINF:-1, tvg-chano="0"tvg-id="AMERICA DOS " tvg-name="AMERICA 2 " tvg-logo="https://www.ver-television.online/images/americatv_.png",AMERICA 2 EN VIVO 
-https://gcdn.2mdn.net/videoplayback/id/8bd4a8064b2e43eb/itag/343/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3800358197/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/3FE2B156E0808487E3A7033EDE0A88092B201DC3.7CA9BC3E3B8E9E09B9F868AAFBF6315988174F05/key/ck2/file/file.mp4?cpn=FyRsn1IdOlcx5qIB
-
-#EXTINF:-1,tvg-chano="1" tvg-id="EL Nueve" tvg-mame="El Nueve" tvg-logo="https://www.ver-television.online/images/elnueve_.png",EL NUEVE EN VIVO 
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
-#EXTINF:-1, tvg-chano="2"tvg-id="EL TRECE EN VIVO" tvg-name="El Trece" tvg-logo="https://www.ver-television.online/images/eltrece_.png",Canal Trece En Vivo
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:-1, tvg-chano="3"tvg-id="TELEFE "tvg-name="TELEFE EN VIVOT"tvg-logo="https://www.ver-television.online/images/telefe_.png",TELEFE EN VIVO
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
-
-
-#EXTINF:-1, tvg-chano="4" tvg-id="Telemax-en-vivo" tvg-name="Telemazx"tvg-logo="https://www.ver-television.online/images/telemax_.png",TELEMAX
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1657062587~exp=1657069787~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=bc79968768e32013dc7e55789abaf4ede9540d23dcfdabc853356d7e91b3ab20
-
-
-
-#EXTINF:-1, tvg-chano="5"tvg-id="NET" tvg-name="NET"tvg-logo="https://www.tvargentinahd.com/img/net.png",CANAL NET EN VIVO
-https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-
-
-
-
-
 #EXTINF:-1, tvg-chano="6"tvg-id="TLS" tvg-name="TLS" tvg-logo="https://www.tvargentinahd.com/img/telesol.png",CANAL 5 TELESOL EN VIVO
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
@@ -113,7 +80,20 @@ http://190.92.95.37:8000/play/a0p8/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p8.png",Cartoon Network HD
 http://190.83.119.67:8000/play/a0op/index.m3u8
 #EXTINF:-1. tvg-id="Bumerang" tvg-name="Bumerang" tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png",Bumerang(Cartoonito)
-http://190.92.95.37:8000/play/a0pa/index.m3u8
+http://190.83.119.67:8000/play/a0pa/index.m3u8
+#EXTINF:-1,Anime Zone TV || Infan
+http://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1,National Geographic
+http://190.83.119.67:8000/play/a0pk/index.m3u8
+
+#EXTINF:-1,MUSICA:PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Tierra Mía TV ||Musica
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+
+
 
 
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0s7.png",E!
