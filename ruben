@@ -128,9 +128,9 @@ http://190.92.95.37:8000/play/a0o3/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oz.png",Guatevision - GUA
 http://190.92.95.37:8000/play/a0oz/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0se.png",ESPN
-http://190.92.95.37:8000/play/a0se/index.m3u8
+http://190.83.119.67:8000/play/a0se/index.m3u8
 #EXTINF:-1, tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0py.png",ESPN  +
-http://190.92.95.37:8000/play/a0py/index.m3u8
+http://190.83.119.67:8000/play/a0py/index.m3u8
 #EXTINF:-1, tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://pbs.twimg.com/media/EffKmhtXYAAP193.jpg",ESPN 2
 http://190.92.95.37:8000/play/a0sf/index.m3u8
 #EXTINF:-1, tvg-id="Fox_Sports_Premiun_HD" tvg-name="Fox_Sports_Premiun_HD" tvg-logo="https://www.ver-television.online/images/foxsportspremium_.png",Fox_Sports_Premiun_HD
