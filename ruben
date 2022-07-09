@@ -31,6 +31,310 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
 
+#EXTINF:0,America
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/327
+#EXTINF:0,Tv Publica
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/328
+#EXTINF:0,El Trece
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/331
+#EXTINF:0,El Trece HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/922
+#EXTINF:0,Telefe
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/330
+#EXTINF:0,El Nueve
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/329
+#EXTINF:0,Encuentro
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/348
+#EXTINF:0,CNN
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/410
+#EXTINF:0,LN+
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/334
+#EXTINF:0,A24
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/416
+#EXTINF:0,C5N
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/335
+#EXTINF:0,UNIFE
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/336
+#EXTINF:0,TN
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/337
+#EXTINF:0,Canal 26
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/417
+#EXTINF:0,Cronica
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/338
+#EXTINF:0,Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/340
+#EXTINF:0,Nick
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/342
+#EXTINF:0,Nick JR
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/344
+#EXTINF:0,Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/427
+#EXTINF:0,Nick 2
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/346
+#EXTINF:0,HBO Mundi
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/420
+#EXTINF:0,PakaPaka
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/339
+#EXTINF:0,Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/422
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/444
+#EXTINF:0,AM Sports
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/894
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/351
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/442
+#EXTINF:0,ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/925
+#EXTINF:0,Fox Sports
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/441
+#EXTINF:0,Fox Sports 2
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/353
+#EXTINF:0,Fox Sports 3
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/418
+#EXTINF:0,Fox Sports Premium HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/354
+#EXTINF:0,T y C Sports
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/431
+#EXTINF:0,TNT Sports
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/439
+#EXTINF:0,DeporTV
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/414
+#EXTINF:0,CineAr
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/363
+#EXTINF:0,Star Channel HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/364
+#EXTINF:0,Paramount Channel
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/809
+#EXTINF:0,TNT Series
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/369
+#EXTINF:0,Cinecanal
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/451
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/373
+#EXTINF:0,Lifetime
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/347
+#EXTINF:0,Golden Plus
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/376
+#EXTINF:0,Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/378
+#EXTINF:0,Universal HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/1056
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/382
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/383
+#EXTINF:0,HBO Family
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/384
+#EXTINF:0,HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/385
+#EXTINF:0,HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/386
+#EXTINF:0,Volver
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/408
+#EXTINF:0,TNT
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/446
+#EXTINF:0,Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/450
+#EXTINF:0,Warner
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/370
+#EXTINF:0,SYFY
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/412
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/419
+#EXTINF:0,Sony HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/409
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/411
+#EXTINF:0,I-SAT
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/448
+#EXTINF:0,SPACE
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/447
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/413
+#EXTINF:0,TBS
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/969
+#EXTINF:0,Film & Arts HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/930
+#EXTINF:0,TCM
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/970
+#EXTINF:0,Tec TV
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/387
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/388
+#EXTINF:0,Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/389
+#EXTINF:0,Paramount HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/390
+#EXTINF:0,Discovery ID
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/392
+#EXTINF:0,Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/911
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/393
+#EXTINF:0,Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/395
+#EXTINF:0,Discovery World
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/396
+#EXTINF:0,The History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/423
+#EXTINF:0,The History Channel 2
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/943
+#EXTINF:0,Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/426
+#EXTINF:0,Discovery Home and Health
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/434
+#EXTINF:0,HGTV
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/942
+#EXTINF:0,A&E
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/449
+#EXTINF:0,Metro
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/425
+#EXTINF:0,El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/406
+#EXTINF:0,E! Entertainment
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/421
+#EXTINF:0,Rural
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/424
+#EXTINF:0,Ciudad Magazine
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/428
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/435
+#EXTINF:0,MTV 00
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/445
+#EXTINF:0,HTV
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/945
+#EXTINF:0,TruTV HD
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/1055
+#EXTINF:0,Eventos Deportivos
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/432
+#EXTINF:0,Canal A
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/429
+#EXTINF:0,Las Estrellas
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/360
+#EXTINF:0,Glitz
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/937
+#EXTINF:0,Baby TV
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/898
+#EXTINF:0,TVE
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/433
+#EXTINF:0,RAI Italia
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/956
+#EXTINF:0,Telemundo
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/362
+#EXTINF:0,Telefuturo
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/398
+#EXTINF:0,Canal 13 Paraguay
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/399
+#EXTINF:0,Panamricana Peru
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/403
+#EXTINF:0,America TV Peru
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/404
+#EXTINF:0,ATV Peru
+#EXTVLCOPT:network-caching=1000
+http://168.196.227.76:25461/tv/123456/405
+
 
 #EXTINF:-1,tvg-id="CINE.AR (720p)"tvg-name=""tvg-logo="https://1.bp.blogspot.com/-WWo-wPrp9c0/X9agAAWUkMI/AAAAAAAA7p0/BfYCqVVBNdE2SGSUP2VtGJoEHCqV1jB4gCLcBGAsYHQ/s639/cine-ar.png",CINE AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
